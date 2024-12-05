@@ -51,3 +51,12 @@ Data visualizations can be found in the `Exploratory Data Analysis` folder. Thes
 - QS World University Rankings (https://www.topuniversities.com/world-university-rankings)
 - RateMyProfessors (https://www.ratemyprofessors.com/)
 - College Scorecard (https://collegescorecard.ed.gov/)
+
+## Attribution Table
+
+| **Name**   | **Contributions**                                           |
+|------------|-------------------------------------------------------------|
+| Daniel     | College Scorecard, QS Ranking Data, Clustering Data         |
+| Mohamed    | NTU Scraping, Classification & Recommendation Model         |
+| William    | MeteoStats Data, Exploratory Data Analyses (EDAs)           |
+| Jean       | Rate My Professor Data, User Input                          |
