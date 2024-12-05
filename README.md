@@ -4,7 +4,7 @@ Every year, millions of high school graduates face challenges navigating the com
 This tool is designed to offer students personalized recommendations for U.S. universities and colleges that align with their individual preferences. It uses a comprehensive dataset featuring the top 50 universities in the U.S. by academic reputation, based on the QS World University Rankings (https://www.topuniversities.com/world-university-rankings).
 
 #### Link to Medium Article:
-- University Recommendation Tool - (link)
+https://medium.com/@williampark0211/post-secondary-education-c43a206044a9
 
 ## Installation Instructions
 1. Open your terminal or command prompt.
